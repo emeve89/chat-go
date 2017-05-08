@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
-	"sync"
 	"path/filepath"
+	"sync"
 	"text/template"
 )
 
